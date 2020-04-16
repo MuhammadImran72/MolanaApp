@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  border-bottom: none;
+  color: white;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-weight: bolder;
+}
+.nav-link {
+  color: #04505b !important;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: green !important;
+  text-transform: uppercase;
+}

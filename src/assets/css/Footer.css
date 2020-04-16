@@ -1,0 +1,31 @@
+#footer {
+  background-color: black;
+  padding: 72px 0px 72px 0px;
+}
+#footer h5 {
+  color: white;
+}
+#footer p {
+  color: white;
+}
+ul {
+  padding: 0px;
+  list-style-type: none;
+}
+
+.navlink a {
+  color: white;
+}
+
+i {
+  font-size: large;
+  padding: 10px 10px;
+  color: white;
+}
+
+span {
+  color: white;
+}
+.footerend {
+  display: inline;
+}
